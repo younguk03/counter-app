@@ -11,6 +11,9 @@ export default function Home() {
           <p className='text-gray-600 dark:text-gray-300'>
             MetaMask를 사용하여 스마트 컨트랙트와 상호작용하세요
           </p>
+          <p className='text-gray-600 dark:text-gray-300'>
+            김영욱 92212788
+          </p>
         </div>
         <CounterApp />
         <div className='mt-12 text-center'>
